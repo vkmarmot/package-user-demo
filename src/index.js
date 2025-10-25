@@ -1,3 +1,3 @@
-const { doMain } = require("webpack-demo");
+import { doMain } from "webpack-demo";
 
 doMain();
